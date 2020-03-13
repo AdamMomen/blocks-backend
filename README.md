@@ -7,7 +7,7 @@ It also connects you with your daily life needs regarding your living place and 
 also being aware of anything that happens in your building block.
 
 shares work between you and the neighbors at any event that comes up.
-[Link our deployed backEnd on Heroku](https://blocks-backend.herokuapp.com)
+[Link of our deployed backEnd on Heroku](https://blocks-backend.herokuapp.com)
 ![UniBlocks](./demo/demo.gif)
 
 # TEAM

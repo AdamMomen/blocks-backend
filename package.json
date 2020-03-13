@@ -1,7 +1,7 @@
 {
   "name": "uniblocks",
   "version": "1.0.0",
-  "description": "Community app",
+  "description": "uniblocks backend",
   "main": "nodemon ./src/server.js",
   "scripts": {
     "commit": "git add . && git commit -m",
